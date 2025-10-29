@@ -12,10 +12,12 @@
 # Study
 개인 공부 내역 및 과정을 정리
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Study README.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/Study/README.md)
+
 ### Image_Processing_Bible
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Study/Image_Processing_Bible](https://github.com/Max-JI64/Today-I-Learn/blob/main/Study/Image_Processing_Bible)
 - 교재명 : 이미지 처리 바이블
 - 생성 일자 : 2025.10.28
+
 ### YOLO
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Study/YOLO](https://github.com/Max-JI64/Today-I-Learn/blob/main/Study/YOLO)
 - 컴퓨터 비전 YOLO 알고리즘에 대해서 개인적으로 공부한 것을 정리
