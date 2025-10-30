@@ -31,5 +31,5 @@ CNN, 이미지 처리 바이블 교재 공부
 - 25.10.29 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-10-29.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Oct/2025-10-29.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-29](https://velog.io/@swoo64/2025-10-29)  
 YOLO, IoU, 이미지 처리 바이블 교재 공부
 
-- 25.10.30 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-10-30.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Oct/2025-10-30.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-30](https://velog.io/@swoo64/2025-10-30)
+- 25.10.30 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-10-30.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Oct/2025-10-30.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-30](https://velog.io/@swoo64/2025-10-30)  
 라벨링 하는 법
