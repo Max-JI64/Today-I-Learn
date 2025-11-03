@@ -8,6 +8,8 @@
 2025년의 매일마다 공부 및 작업 내용을 정리 
 ### 10월
 -  ![GitHub](https://img.shields.io/badge/README-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-TIL/Oct](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Oct/README.md)
+### 11월
+-  ![GitHub](https://img.shields.io/badge/README-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-TIL/Nov](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Nov/README.md)
 
 # Study
 개인 공부 내역 및 과정을 정리
