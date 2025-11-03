@@ -1,10 +1,9 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 - [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@swoo64/series/TIL-Today-I-Learn) [TIL - Today I Learn](https://velog.io/@swoo64/series/TIL-Today-I-Learn)
-
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Baekjoon_CodingTest_jsw](https://github.com/Max-JI64/Baekjoon_CodingTest_jsw)
-- 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Kakao Tech Bootcamp](https://github.com/Max-JI64/Kakao_Tech_Bootcamp)
+
 # 2025-TIL
 2025년의 매일마다 공부 및 작업 내용을 정리 
 ### 10월
