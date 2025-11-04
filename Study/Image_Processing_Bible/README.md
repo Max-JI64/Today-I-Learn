@@ -50,3 +50,14 @@
 GAN에 대한 개념 및 원리
 MNIST GAN 실습
 
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [3.2 딥러닝을 활용한 이미지 처리.ipynb](https://github.com/Max-JI64/Today-I-Learn/blob/main/Study/Image_Processing_Bible/3_2_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%B2%98%EB%A6%AC.ipynb)  
+1. 이미지 분류  
+데이터 전처리  
+다층 퍼셉트론, 합성곱 신경망
+2. 객체 인식  
+하르 캐스케이드  
+에이다부스트
+3. 스타일 전이  
+잠재 벡터 추출
+VAE
+

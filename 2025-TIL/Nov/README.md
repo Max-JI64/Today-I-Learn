@@ -1,3 +1,6 @@
 ### [11월 1주차]
 - 25.11.02 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-02.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Nov/2025-11-02.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-02](https://velog.io/@swoo64/2025-11-02)  
 7주차 과제 : Fine-Tuning, ResNet, VGG
+
+- 25.11.04 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-04.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Nov/2025-11-04.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-04](https://velog.io/@swoo64/2025-11-04)  
+이미지 처리 바이블 3.2 딥러닝을 활용한 이미지 처리
