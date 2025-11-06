@@ -20,7 +20,7 @@
 - 교재명 : 이미지 처리 바이블
 - 생성 일자 : 2025.10.28
 
-### YOLO
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Study/YOLO](https://github.com/Max-JI64/Today-I-Learn/blob/main/Study/YOLO)
-- 컴퓨터 비전 YOLO 알고리즘에 대해서 개인적으로 공부한 것을 정리
+### Computer_Vision
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Study/Computer_Vision](https://github.com/Max-JI64/Today-I-Learn/blob/main/Study/Computer_Vision)
+- 컴퓨터 비전에 대해서 개인적으로 공부한 것을 정리
 - 생성 일자 : 2025.10.29
