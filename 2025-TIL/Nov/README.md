@@ -10,3 +10,6 @@
 
 - 25.11.10 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-10.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Nov/2025-11-10.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-10](https://velog.io/@swoo64/2025-11-10)  
 트랜스포머와 ResNet-101 구현 및 학습
+
+- 25.11.12 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-12.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Nov/2025-11-12.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-12](https://velog.io/@swoo64/2025-11-12)  
+트랜스포머, 비전 트랜스포머 개념 정리 및 실습
